@@ -51,4 +51,6 @@ print(table[['name', 'age']])
 print(table.mean()) #anscheinend alles mit (nur) zahlen
 print(table['age'].mean()) #so bekommt man nur den spezifischen wert
 
+print("was passoert jetzt?")
+
 
